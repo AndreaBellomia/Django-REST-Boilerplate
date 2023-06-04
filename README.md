@@ -8,8 +8,6 @@ pip `23.0.1`
 
 Docker
 
-Node JS `18.16.0`
-
 ## Commands
 
 ### Virtual Enviroment 
